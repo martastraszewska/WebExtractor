@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Antonin",
+    "websiteUrl": "https://www.gov.pl/web/nadlesnictwo-antonin/wystapienia-komunikaty-i-ogloszenia",
+    "timestamp": 1736771203000,
+    "contentHash": "",
+    "dataSelector": "#main-content"
+  },
+  {
+    "name": "Babki",
+    "websiteUrl": "https://www.gov.pl/web/nadlesnictwo-babki/wystapienia-komunikaty-i-ogloszenia",
+    "timestamp": 1736771203000,
+    "contentHash": "",
+    "dataSelector": "#main-content"
+  }
+]
